@@ -40,7 +40,7 @@ def decision(pOne, pTwo):
     if pOne>pTwo:
         print("Player two won the game")
     elif pOne<pTwo:
-        print("Plpayer 1 won the game")
+        print("Player 1 won the game")
     else:
         print("It's a tie")
         
